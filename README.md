@@ -1,29 +1,100 @@
-![logo](https://github.com/Ashutosh-PMishra/Ashutosh-PMishra/blob/main/Github%20Banner.png)
-<h1 align="center">Hi 👋, I'm Adeoye caleb</h1>
-<h3 align="center">A passionate Software Engineer from Nigeria</h3>
+## Hi there 👋, my name is Caleb
 
-<img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
+I am a Full Stack Developer with a passion for creating innovative and user-friendly web applications. My skills include proficiency in various programming languages such as JavaScript, Python, and HTML/CSS, as well as experience with popular frameworks such as React and Node.js. I am always eager to learn new technologies and stay up-to-date with industry trends. I am a problem-solver at heart and strive to create elegant solutions for complex challenges.
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ashutosh-pmishra&label=Profile%20views&color=0e75b6&style=flat" alt="ashutosh-pmishra" /> </p>
+## Languages and Tools
 
-- 👨‍💻 All of my projects are available at [https://linktr.ee/simplified_learner](https://linktr.ee/simplified_learner)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
+![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
+![Apollo-GraphQL](https://img.shields.io/badge/-ApolloGraphQL-311C87?style=for-the-badge&logo=apollo-graphql)
+![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![Sequelize](https://img.shields.io/badge/Sequelize-52B0E7?style=for-the-badge&logo=Sequelize&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![Webpack](https://img.shields.io/badge/webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black)
+![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)
+![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white)
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)
+![Affinity Photo](https://img.shields.io/badge/affinityphoto-%237E4DD2.svg?style=for-the-badge&logo=affinity-photo&logoColor=white)
+![Affinity Designer](https://img.shields.io/badge/affinity%20desginer-%231B72BE.svg?style=for-the-badge&logo=affinity-designer&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-F2F4F9?style=for-the-badge&logo=spring-boot)
+![Spring Security](https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=Spring-Security&logoColor=white)
+![Spring oAuth2 Resouces Server](https://img.shields.io/badge/Spring_OAuth2_Resources_Server-6DB33F?style=for-the-badge&logo=Spring&logoColor=white)
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white)
 
-- ⚡ Fun fact **I am funny😅**
+## My Portfolio
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/caleb adeoye" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ashutosh mishra" height="30" width="40" /></a>
-<a href="https://instagram.com/caleb pelumi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="simplified_learner" height="30" width="40" /></a>
-</p>
+[<img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139"/>](https://raulwebdev.com/)
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+## My Projects
 
-<h3 align="left">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/simplified"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="simplified learner" /></a></p><br><br>
+#### ConnectME | Social Media App  
+[GitHub](https://github.com/jimenezraul/social-media) | [Live Demo](https://morning-tundra-02449.herokuapp.com/)   
+[<img height='150' src="assets/img/connectme.png"/>](https://morning-tundra-02449.herokuapp.com/)  
+#### BookMe | Scheduling App | Square API  
+[GitHub](https://github.com/jimenezraul/BookMe) | [Live Demo](https://desolate-chamber-34231.herokuapp.com/)   
+[<img height='150' src="assets/img/bookme.png"/>](https://desolate-chamber-34231.herokuapp.com/)  
+#### Barber Scheduling App | Setmore API  
+[GitHub](https://github.com/jimenezraul/BarberSchedulingApp) | [Live Demo](https://limitless-spire-83509.herokuapp.com/)   
+[<img height='150' src="assets/img/barberapp.png"/>](https://limitless-spire-83509.herokuapp.com/)  
+#### ProPet | E-commerce  
+[GitHub](https://github.com/jimenezraul/pet-supplies-store) | [Live Demo](https://afternoon-spire-43659.herokuapp.com/)   
+[<img height='150' src="assets/img/pet-store.png"/>](https://afternoon-spire-43659.herokuapp.com/)  
+#### Inventory Management System  
+[GitHub](https://github.com/jimenezraul/IMS) | [Live Demo](https://ims-inventory-s.herokuapp.com/)   
+[<img height='150' src="assets/img/main.png"/>](https://ims-inventory-s.herokuapp.com/)  
+#### The TechTalk Blog  
+[GitHub](https://github.com/jimenezraul/Blog-API) | [Live Demo](https://illustrious-sprite-a61321.netlify.app/)   
+[<img height='150' src="assets/img/blog.png"/>](https://illustrious-sprite-a61321.netlify.app/)  
+#### CoinHiz  
+[GitHub](https://github.com/jimenezraul/coinhiz) | [Live Demo](https://jimenezraul.github.io/coinhiz/)   
+[<img height='150' src="assets/img/coinhiz.jpg"/>](https://jimenezraul.github.io/coinhiz/)
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ashutosh-pmishra&show_icons=true&locale=en&layout=compact" alt="ashutosh-pmishra" /></p>
+## My NPM Packages
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ashutosh-pmishra&show_icons=true&locale=en" alt="ashutosh-pmishra" /></p>
+[<img width="40" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/npm/npm-original-wordmark.svg"/>](https://www.npmjs.com/~jimenezraul)
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ashutosh-pmishra&" alt="ashutosh-pmishra" /></p>
+[Auto-Hide-Hook](https://www.npmjs.com/package/auto-hide-hook) ![npm](https://img.shields.io/npm/dw/auto-hide-hook)   
+[uFetch-Hook](https://www.npmjs.com/package/ufetch-hook) ![npm](https://img.shields.io/npm/dw/ufetch-hook)     
+[IndexedDBPromise](https://www.npmjs.com/package/indexeddbpromise) ![npm](https://img.shields.io/npm/dw/indexeddbpromise)  
+[Auth](https://www.npmjs.com/package/@jimenezraul/auth) ![npm](https://img.shields.io/npm/dw/@jimenezraul/auth)   
+[Form Validation](https://www.npmjs.com/package/@jimenezraul/form-validation) ![npm](https://img.shields.io/npm/dw/@jimenezraul/form-validation)   
+[Setmore-SDK](https://www.npmjs.com/package/setmore-sdk) ![npm](https://img.shields.io/npm/dw/setmore-sdk)
+
+## ContactMe
+
+[<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"/>](https://www.linkedin.com/in/raul-jimenez-778b2a196/)
+[<img src="https://img.shields.io/badge/github-brown?style=for-the-badge&logo=github&logoColor=white"/>](https://github.com/jimenezraul)
+[<img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white"/>](mailto:jimenezraul1981@gmail.com)
+
+## Certifications
+
+[<img height='155' src="assets/img/bootcamp.png"/>](https://badgr.com/public/assertions/H25wO7OQR0GZrar8Uwsybw)   
+[<img height='150' src="assets/img/UC-4afac34e-7da6-4ba1-a3bb-a7f6e5c21f6f.jpeg"/>](https://www.udemy.com/certificate/UC-4afac34e-7da6-4ba1-a3bb-a7f6e5c21f6f/)   
+[<img height='150' src="assets/img/java.png"/>](https://www.udemy.com/certificate/UC-e984cf59-d576-431e-b041-043321acc3e1/)   
+[<img height='150' src="assets/img/pcep-30-01-pcep-certified-entry-level-python-programmer.png"/>](https://www.credly.com/badges/7a168258-69af-453b-b9b2-6c4da247ff4d/public_url)
+[<img height='150' src="assets/img/pcap-31-03-pcap-certified-associate-in-python-programming.png"/>](https://www.credly.com/badges/6c67f5dd-8222-4e99-a80c-668e9d845594/public_url)   
+
+
+## Stats
+
+![Raul J.'s GitHub stats](https://github-readme-stats.vercel.app/api?username=jimenezraul&show_icons=true&theme=radical)
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=jimenezraul&theme=dark&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jimenezraul&layout=compact&theme=dracula&langs_count=20)](https://github.com/anuraghazra/github-readme-stats)
