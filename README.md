@@ -43,26 +43,26 @@ I am a Full Stack Developer with a passion for creating innovative and user-frie
 
 ## My Projects
 
-#### ConnectME | Social Media App  
-[GitHub](https://github.com/jimenezraul/social-media) | [Live Demo](https://morning-tundra-02449.herokuapp.com/)   
+#### ADMINIS | Admin App  
+[GitHub](https://github.com/calebski10/admindashboard) | [Live Demo](https://imaginative-semolina-18d8c9.netlify.app)   
 [<img height='150' src="assets/img/connectme.png"/>](https://morning-tundra-02449.herokuapp.com/)  
-#### BookMe | Scheduling App | Square API  
+#### Dall-e | AI app   
 [GitHub](https://github.com/jimenezraul/BookMe) | [Live Demo](https://desolate-chamber-34231.herokuapp.com/)   
 [<img height='150' src="assets/img/bookme.png"/>](https://desolate-chamber-34231.herokuapp.com/)  
-#### Barber Scheduling App | Setmore API  
-[GitHub](https://github.com/jimenezraul/BarberSchedulingApp) | [Live Demo](https://limitless-spire-83509.herokuapp.com/)   
+#### Hospital Scheduling App   
+[GitHub](https://github.com/calebski10/hospital) | [Live Demo](https://superlative-dodol-a0198d.netlify.app)   
 [<img height='150' src="assets/img/barberapp.png"/>](https://limitless-spire-83509.herokuapp.com/)  
 #### ProPet | E-commerce  
 [GitHub](https://github.com/jimenezraul/pet-supplies-store) | [Live Demo](https://afternoon-spire-43659.herokuapp.com/)   
 [<img height='150' src="assets/img/pet-store.png"/>](https://afternoon-spire-43659.herokuapp.com/)  
-#### Inventory Management System  
-[GitHub](https://github.com/jimenezraul/IMS) | [Live Demo](https://ims-inventory-s.herokuapp.com/)   
+#### Digital  
+[GitHub](https://github.com/calebski10/Digital) | [Live Demo](https://zenithhubdigital.netlify.app)   
 [<img height='150' src="assets/img/main.png"/>](https://ims-inventory-s.herokuapp.com/)  
-#### The TechTalk Blog  
-[GitHub](https://github.com/jimenezraul/Blog-API) | [Live Demo](https://illustrious-sprite-a61321.netlify.app/)   
+#### SHOPS | Admin panel  
+[GitHub](https://github.com/calebski10/admin-panel) | [Live Demo](https://zenithhubadmin.netlify.app)   
 [<img height='150' src="assets/img/blog.png"/>](https://illustrious-sprite-a61321.netlify.app/)  
-#### CoinHiz  
-[GitHub](https://github.com/jimenezraul/coinhiz) | [Live Demo](https://jimenezraul.github.io/coinhiz/)   
+#### Car Rental  
+[GitHub](https://github.com/calebski10/Car-rental) | [Live Demo]()   
 [<img height='150' src="assets/img/coinhiz.jpg"/>](https://jimenezraul.github.io/coinhiz/)
 
 ## My NPM Packages
@@ -82,7 +82,7 @@ I am a Full Stack Developer with a passion for creating innovative and user-frie
 [<img src="https://img.shields.io/badge/github-brown?style=for-the-badge&logo=github&logoColor=white"/>](https://github.com/jimenezraul)
 [<img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white"/>](mailto:jimenezraul1981@gmail.com)
 
-## Certifications
+/** ## Certifications
 
 [<img height='155' src="assets/img/bootcamp.png"/>](https://badgr.com/public/assertions/H25wO7OQR0GZrar8Uwsybw)   
 [<img height='150' src="assets/img/UC-4afac34e-7da6-4ba1-a3bb-a7f6e5c21f6f.jpeg"/>](https://www.udemy.com/certificate/UC-4afac34e-7da6-4ba1-a3bb-a7f6e5c21f6f/)   
@@ -97,4 +97,4 @@ I am a Full Stack Developer with a passion for creating innovative and user-frie
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=jimenezraul&theme=dark&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jimenezraul&layout=compact&theme=dracula&langs_count=20)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jimenezraul&layout=compact&theme=dracula&langs_count=20)](https://github.com/anuraghazra/github-readme-stats) *\
