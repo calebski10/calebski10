@@ -49,9 +49,9 @@ I am a Full Stack Developer with a passion for creating innovative and user-frie
 #### Dall-e | AI app   
 [GitHub](https://github.com/jimenezraul/BookMe) | [Live Demo](https://desolate-chamber-34231.herokuapp.com/)   
 [<img height='150' src="assets/img/bookme.png"/>](https://desolate-chamber-34231.herokuapp.com/)  
-#### Hospital Scheduling App   
-[GitHub](https://github.com/calebski10/hospital) | [Live Demo](https://superlative-dodol-a0198d.netlify.app)   
-[<img height='150' src="assets/img/barberapp.png"/>](https://limitless-spire-83509.herokuapp.com/)  
+####  MAGZYNE | Admin-panel
+[GitHub](https://github.com/calebski10/admin-dashboard) | [Live Demo](https://voluble-tartufo-74ebce.netlify.app)   
+[<img height='150' src="assets/img/pet-store.png"/>](https://afternoon-spire-43659.herokuapp.com/)  
 #### ProPet | E-commerce  
 [GitHub](https://github.com/jimenezraul/pet-supplies-store) | [Live Demo](https://afternoon-spire-43659.herokuapp.com/)   
 [<img height='150' src="assets/img/pet-store.png"/>](https://afternoon-spire-43659.herokuapp.com/)  
@@ -64,6 +64,9 @@ I am a Full Stack Developer with a passion for creating innovative and user-frie
 #### Car Rental  
 [GitHub](https://github.com/calebski10/Car-rental) | [Live Demo]()   
 [<img height='150' src="assets/img/coinhiz.jpg"/>](https://jimenezraul.github.io/coinhiz/)
+####Hospital Scheduling App   
+[GitHub](https://github.com/calebski10/hospital) | [Live Demo](https://superlative-dodol-a0198d.netlify.app)   
+[<img height='150' src="assets/img/barberapp.png"/>](https://limitless-spire-83509.herokuapp.com/)
 
 <!-- ## My NPM Packages
 
