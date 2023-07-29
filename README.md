@@ -65,7 +65,7 @@ I am a Full Stack Developer with a passion for creating innovative and user-frie
 [GitHub](https://github.com/calebski10/Car-rental) | [Live Demo]()   
 [<img height='150' src="assets/img/coinhiz.jpg"/>](https://jimenezraul.github.io/coinhiz/)
 
-## My NPM Packages
+/* ## My NPM Packages
 
 [<img width="40" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/npm/npm-original-wordmark.svg"/>](https://www.npmjs.com/~jimenezraul)
 
@@ -82,7 +82,7 @@ I am a Full Stack Developer with a passion for creating innovative and user-frie
 [<img src="https://img.shields.io/badge/github-brown?style=for-the-badge&logo=github&logoColor=white"/>](https://github.com/jimenezraul)
 [<img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white"/>](mailto:jimenezraul1981@gmail.com)
 
-/** ## Certifications
+ ## Certifications
 
 [<img height='155' src="assets/img/bootcamp.png"/>](https://badgr.com/public/assertions/H25wO7OQR0GZrar8Uwsybw)   
 [<img height='150' src="assets/img/UC-4afac34e-7da6-4ba1-a3bb-a7f6e5c21f6f.jpeg"/>](https://www.udemy.com/certificate/UC-4afac34e-7da6-4ba1-a3bb-a7f6e5c21f6f/)   
