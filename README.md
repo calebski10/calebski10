@@ -65,7 +65,7 @@ I am a Full Stack Developer with a passion for creating innovative and user-frie
 [GitHub](https://github.com/calebski10/Car-rental) | [Live Demo]()   
 [<img height='150' src="assets/img/coinhiz.jpg"/>](https://jimenezraul.github.io/coinhiz/)
 
-/* ## My NPM Packages
+<!-- ## My NPM Packages
 
 [<img width="40" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/npm/npm-original-wordmark.svg"/>](https://www.npmjs.com/~jimenezraul)
 
@@ -97,4 +97,4 @@ I am a Full Stack Developer with a passion for creating innovative and user-frie
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=jimenezraul&theme=dark&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jimenezraul&layout=compact&theme=dracula&langs_count=20)](https://github.com/anuraghazra/github-readme-stats) *\
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jimenezraul&layout=compact&theme=dracula&langs_count=20)](https://github.com/anuraghazra/github-readme-stats) -->
