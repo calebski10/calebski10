@@ -41,7 +41,7 @@ I am a Full Stack Developer with a passion for creating innovative and user-frie
 
 [<img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139"/>](https://portfolio-wine-eight-87.vercel.app/)
 
-/* # My Projects
+<!-- # My Projects
 
 #### ADMINIS | Admin App  
 [GitHub](https://github.com/calebski10/admindashboard) | [Live Demo](https://imaginative-semolina-18d8c9.netlify.app)   
@@ -68,7 +68,7 @@ I am a Full Stack Developer with a passion for creating innovative and user-frie
 [GitHub](https://github.com/calebski10/hospital) | [Live Demo](https://superlative-dodol-a0198d.netlify.app)   
 [<img height='150' src="assets/img/barberapp.png"/>](https://limitless-spire-83509.herokuapp.com/)
 
-<!-- ## My NPM Packages
+ ## My NPM Packages
 
 [<img width="40" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/npm/npm-original-wordmark.svg"/>](https://www.npmjs.com/~jimenezraul)
 
