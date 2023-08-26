@@ -41,7 +41,7 @@ I am a Full Stack Developer with a passion for creating innovative and user-frie
 
 [<img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139"/>](https://portfolio-wine-eight-87.vercel.app/)
 
-## My Projects
+/* # My Projects
 
 #### ADMINIS | Admin App  
 [GitHub](https://github.com/calebski10/admindashboard) | [Live Demo](https://imaginative-semolina-18d8c9.netlify.app)   
@@ -91,7 +91,7 @@ I am a Full Stack Developer with a passion for creating innovative and user-frie
 [<img height='150' src="assets/img/UC-4afac34e-7da6-4ba1-a3bb-a7f6e5c21f6f.jpeg"/>](https://www.udemy.com/certificate/UC-4afac34e-7da6-4ba1-a3bb-a7f6e5c21f6f/)   
 [<img height='150' src="assets/img/java.png"/>](https://www.udemy.com/certificate/UC-e984cf59-d576-431e-b041-043321acc3e1/)   
 [<img height='150' src="assets/img/pcep-30-01-pcep-certified-entry-level-python-programmer.png"/>](https://www.credly.com/badges/7a168258-69af-453b-b9b2-6c4da247ff4d/public_url)
-[<img height='150' src="assets/img/pcap-31-03-pcap-certified-associate-in-python-programming.png"/>](https://www.credly.com/badges/6c67f5dd-8222-4e99-a80c-668e9d845594/public_url)   
+[<img height='150' src="assets/img/pcap-31-03-pcap-certified-associate-in-python-programming.png"/>](https://www.credly.com/badges/6c67f5dd-8222-4e99-a80c-668e9d845594/public_url)*/  
 
 
 ## Stats
